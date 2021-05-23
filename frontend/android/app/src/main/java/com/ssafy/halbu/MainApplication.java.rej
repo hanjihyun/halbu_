@@ -1,0 +1,13 @@
+diff a/frontend/android/app/src/main/java/com/ssafy/halbu/MainApplication.java b/frontend/android/app/src/main/java/com/ssafy/halbu/MainApplication.java	(rejected hunks)
+@@ -26,9 +26,9 @@
+ import java.lang.reflect.InvocationTargetException;
+ import java.util.Arrays;
+ import java.util.List;
+-import javax.annotation.Nullable;
++import javax.annotation.Nullae;
+ 
+-import com.bluebamboostudios.RNContactsPickerPackage;
++//import com.rt2zz.reactnativecontacts.ReactNativeContacts;
+ 
+ public class MainApplication extends Application implements ReactApplication {
+   private final ReactModuleRegistryProvider mModuleRegistryProvider = new ReactModuleRegistryProvider(

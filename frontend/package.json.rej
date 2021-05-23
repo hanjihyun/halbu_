@@ -1,0 +1,9 @@
+diff a/frontend/package.json b/frontend/package.json	(rejected hunks)
+@@ -28,7 +28,6 @@
+     "react-dom": "16.13.1",
+     "react-native": "~0.63.4",
+     "react-native-contacts": "^5.2.3",
+-    "react-native-contacts-chooser": "^1.0.0-alpha.2",
+     "react-native-elements": "^1.1.0",
+     "react-native-gesture-handler": "~1.8.0",
+     "react-native-image-picker": "^3.3.4",

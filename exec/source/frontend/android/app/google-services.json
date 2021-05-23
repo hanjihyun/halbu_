@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "638193370790",
+    "project_id": "halbu-c107-312107",
+    "storage_bucket": "halbu-c107-312107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638193370790:android:6dd113ea557871db705667",
+        "android_client_info": {
+          "package_name": "com.ssafy.halbu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638193370790-9h1pqs1ieiu9eso0m0o6810jgf8ars0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqRmz-fkDUtHb9q-O924gLUfsg6ZXPQX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638193370790-9h1pqs1ieiu9eso0m0o6810jgf8ars0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638193370790-01qi3dm6ee2urpbnneparqitjvvins3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssafy.halbu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638193370790:android:2d4cbf063ecbf3e7705667",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638193370790-702dd75t25rqt18kphne3r9t1777mfqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "f45dde244d772bcfb742ff3b29efe1f0724d55c7"
+          }
+        },
+        {
+          "client_id": "638193370790-9h1pqs1ieiu9eso0m0o6810jgf8ars0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqRmz-fkDUtHb9q-O924gLUfsg6ZXPQX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638193370790-9h1pqs1ieiu9eso0m0o6810jgf8ars0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638193370790-01qi3dm6ee2urpbnneparqitjvvins3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssafy.halbu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

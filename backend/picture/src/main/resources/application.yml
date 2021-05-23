@@ -1,0 +1,26 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 1MB
+      max-request-size: 1MB
+      enabled: true
+      
+logging:
+  level:
+    root: info
+    com: 
+      amazonaws: 
+        util: 
+          EC2MetadataUtils: error
+          
+cloud:
+  aws:
+    s3:
+      bucket: fpjt-picture
+    region:
+      auto: false
+      static: ap-northeast-2
+    stack:
+      auto: false
+    credentials:
+      instanceProfile: true

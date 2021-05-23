@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "할부전화",
+    "slug": "halbu-app",
+    "description": "React Native Recipes App Demo. Download source code for free at https://www.instamobile.io . You can also check out the Swift version at https://www.iosapptemplates.com and the Kotlin version at https://www.instakotlin.com .",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ssafy.halbu",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "936259065435-ggsmqe3nmitvkrh1dlb3h4ue97rllqms.apps.googleusercontent.com"
+        }
+      }, "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.ssafy.halbu",
+      "versionCode": 2,
+      "googleServicesFile": ".android/app/google-services.json",
+      "config": {
+        "googleSignIn": {
+          "certificateHash": "f45dde244d772bcfb742ff3b29efe1f0724d55c7"
+        }
+      }
+    }
+  }
+}

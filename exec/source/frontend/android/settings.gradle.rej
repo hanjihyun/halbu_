@@ -1,0 +1,12 @@
+diff a/frontend/android/settings.gradle b/frontend/android/settings.gradle	(rejected hunks)
+@@ -6,7 +6,7 @@
+ apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
+ applyNativeModulesSettingsGradle(settings)
+ 
+-include ':react-native-contacts-chooser'
+-project(':react-native-contacts-chooser').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-contacts-chooser/android')
++include ':react-native-contacts'
++project(':react-native-contacts').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-contacts/android')
+ 
+ include ':app'
+\ No newline at end of file
